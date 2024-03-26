@@ -1,0 +1,5 @@
+﻿  Fermat.cpp
+C:\Users\ionut\source\repos\Fermat\Fermat\Fermat.cpp(6,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ionut\source\repos\Fermat\Fermat\Fermat.cpp(17,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ionut\source\repos\Fermat\Fermat\Fermat.cpp(25,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Fermat.vcxproj -> C:\Users\ionut\source\repos\Fermat\x64\Debug\Fermat.exe
