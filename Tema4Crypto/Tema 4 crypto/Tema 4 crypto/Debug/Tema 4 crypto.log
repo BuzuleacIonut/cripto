@@ -1,0 +1,5 @@
+﻿  Tema 4 crypto.cpp
+C:\Users\ionut\source\repos\Tema 4 crypto\Tema 4 crypto\Tema 4 crypto.cpp(8,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ionut\source\repos\Tema 4 crypto\Tema 4 crypto\Tema 4 crypto.cpp(19,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\ionut\source\repos\Tema 4 crypto\Tema 4 crypto\Tema 4 crypto.cpp(27,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Tema 4 crypto.vcxproj -> C:\Users\ionut\source\repos\Tema 4 crypto\Debug\Tema 4 crypto.exe
